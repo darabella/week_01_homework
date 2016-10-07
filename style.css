@@ -1,0 +1,69 @@
+/* Use colorpicker.com to change the background color of the page */
+/*Hold down command and / to comment out lines in atom automatically. */
+
+
+body {
+  background-color: #5e5e5e;
+  color: #ffffff;
+}
+
+img {
+    float: right;
+    margin: 0 0 10px 10px;
+    border: #ffffff 1px solid;
+    padding: 5px;
+}
+
+.container {
+  width: 600px;
+  border: #cccccc 3px solid;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+
+}
+
+.txt-center {
+  text-align: center;
+}
+
+.italic-text {
+  font-style: italic;
+}
+
+.smallC {
+  font-variant-caps: small-caps;
+  font-style: normal;
+}
+
+.nav li {
+  list-style: none;
+  display: inline;
+
+}
+
+.nav {
+  padding:0;
+}
+
+.a {
+  color: #57b565;
+}
+
+.divider {
+  border-top: #cccccc 2px solid;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.two {
+  list-style: square inside;
+}
+
+.sansserif {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.small {
+	font-size: small;
+}
